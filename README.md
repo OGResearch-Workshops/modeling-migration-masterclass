@@ -6,18 +6,18 @@
 
 ## Overview
 
-This intensive 2-day on-site program is designed for macroeconomic modelers
+This intensive two-day on-site program is designed for macroeconomic modelers
 planning a transition from Matlab/Iris Toolbox to Python/IrisPie. This
 masterclass will let you quickly peek into how to bridge your existing modeling
 expertise with modern Python-based workflows, to ensure and maintain your
 productivity while embracing the power and the hands-on flexibility of
 open-source tools.
 
-This 2-day masterclass is intended for the participants to actively observe the
+The masterclass is intended for the participants to actively observe the
 transition process, understand the key differences between Matlab and Python,
 and learn enough to make informed decisions about migrating their own modeling
 and forecasting environments. More customized and systematic assistance and
-training can be provided based on a further bilateral agreement.
+hands-on training can be provided based on a further bilateral agreement.
 
 **Ideal for:**
 
