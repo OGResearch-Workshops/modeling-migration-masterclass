@@ -6,15 +6,26 @@
 
 ## Overview
 
-This intensive 2-3 day on-site training program is designed for macroeconomic
-modelers transitioning from Matlab/Iris Toolbox to Python/IrisPie. The hands-on
-masterclass bridges your existing modeling expertise with modern Python-based
-workflows, ensuring you maintain productivity while embracing the power and
-flexibility of open-source tools.
+This intensive 2-day on-site program is designed for macroeconomic modelers
+planning a transition from Matlab/Iris Toolbox to Python/IrisPie. This
+masterclass will let you quickly peek into how to bridge your existing modeling
+expertise with modern Python-based workflows, to ensure and maintain your
+productivity while embracing the power and the hands-on flexibility of
+open-source tools.
 
-**Ideal for:** Economists, analysts, and researchers who operate macroeconomic
-models and need practical guidance on migrating their skills and workflows to
-Python.
+This 2-day masterclass is intended for the participants to actively observe the
+transition process, understand the key differences between Matlab and Python,
+and learn enough to make informed decisions about migrating their own modeling
+and forecasting environments. More customized and systematic assistance and
+training can be provided based on a further bilateral agreement.
+
+**Ideal for:**
+
+* Economists, analysts, and researchers who operate macroeconomic models and
+  need practical guidance on migrating their skills and workflows to Python
+
+* Managers who want to initiate and oversee this transition and to see it
+  succeed smoothly.
 
 ---
 
@@ -29,19 +40,13 @@ building on your existing knowledge.
 
 #### Emphasis on Real-World Gotchas
 
-We focus on the **critical differences** that experienced Matlab users encounter:
+We focus on the **critical differences** that experienced Matlab users
+encounter:
 
 - Assignment by reference vs. by value
 - Module execution vs. script concepts
 - Data structure nuances
 - Environment management essentials
-
-
-#### Structured Learning Path
-
-- **Observe** the instructor demonstrate real workflows
-- **Practice** on your own machine with guided support
-- **Apply** techniques to your actual modeling challenges
 
 ---
 
@@ -50,7 +55,7 @@ We focus on the **critical differences** that experienced Matlab users encounter
 #### Organizational Details
 
 **Duration:** 2-3 days (customizable based on group needs)
-**Format:** On-site, hands-on workshop
+**Format:** On-site workshop with live simulation exercises
 **Group Size:** up to 10 participants (optimal for personalized attention)
 
 
@@ -61,37 +66,21 @@ We focus on the **critical differences** that experienced Matlab users encounter
 - Basic familiarity with basic model workflows in Matlab/Iris Toolbox
 - **No prior Python experience required**
 
-#### Technical Requirements
-
-**Each participant must have their own computer/laptop with:**
-
-- Python 3.12 or later installed
-- Administrative rights to install Python packages (pip/conda)
-- Git version control system installed
-- Rights to access and clone GitHub repositories
-- Internet connection for package downloads and repository access
-- VS Code or similar text editor (we'll help configure during Session 1)
-
-**Optional but recommended:**
-
-- GitHub account for accessing training materials
-- Familiarity with basic command line operations
-
 
 ---
 
 ## Program Structure
 
-#### Block 1: Setting Up Your Python Modeling Environment
+#### Block 1: Illustrative Setup of Your Python Modeling Environment
 
 - VS Code configuration for economic modeling
 - Git basics for version control
 - Virtual environments and package management with PyPI
-- Installing and configuring IrisPie
+- Installing IrisPie and dependencies
 
 #### Block 2: Essential Matlab vs Python Differences
 
-- Assignment semantics: when `x = y` behaves differently
+- Syntactical and semantic differences between Matlab and Python
 - The module concept: why there are no "scripts" in Python and workarounds
 - Basic data types and structures
 - Common transition pitfalls and how to avoid them
@@ -100,8 +89,8 @@ We focus on the **critical differences** that experienced Matlab users encounter
 
 - Time series objects and data structures
 - Time periods and frequency handling
-- Data import/export workflows (CSV, Excel, databases)
-- Databank management and manipulation
+- Data import/export workflows (CSV, Excel, JSON, etc.)
+- Data management and manipulation, simple time series modeling 
 - Charting and visualization with matplotlib/plotly
 
 #### Block 4: Model File Language Migration
@@ -122,14 +111,6 @@ We focus on the **critical differences** that experienced Matlab users encounter
 - First-order versus nonlinear simulations
 
 **Key Insight**: The underlying modeling logic remains the same—only the syntax changes
-
-
-#### Block 6: Active Modeling Practice
-
-- Work through complete modeling examples on your laptop
-- Port simple models from your own work
-- Troubleshoot common errors with instructor guidance
-- Performance optimization tips
 
 #### Block 6: AI-Assisted Code Migration
 
